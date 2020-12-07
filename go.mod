@@ -1,4 +1,4 @@
-module github.com/enigmampc/btcutil
+module github.com/make-os/btcutil
 
 go 1.14
 
